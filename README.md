@@ -1,6 +1,6 @@
 ## Hi, I'm Mohan  👋
 
-- 🔭 I’m currently working on something cool.
+- 🔭 I’m a Web Developer.
 - 🌱 I’m currently learning react-native.
 - 📫 How to reach me: myselfgeek01@gmail.com
 - 😄 Pronouns: Mr.
