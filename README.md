@@ -5,11 +5,11 @@
  -->
 
 
-I am a WebDevloper with ability to easily adapt to different hats (Full Stack Web Developer 🌐, App Developer 📱, or beginner level Designer 🎨) depending on what the project requires. I love exploring new tech stack 💻 and leveraging them to build cool stuffs 🛠️. 
-<br/>
+I am a WebDevloper with ability to easily adapt to different technologies depending on what the project requires. I love exploring new tech stack 💻 and leveraging them to build cool stuffs 🛠️.
 <br/>
 
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif" width="360px" height='360px'/>
+
+<!-- <img align="right" alt="GIF" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif" width="360px" height='360px'/> -->
   
 ### 🧐 More About Me:
 
@@ -22,10 +22,6 @@ I am a WebDevloper with ability to easily adapt to different hats (Full Stack We
 - 📫 &nbsp; Feel free to ping me on [LinkedIn](https://www.linkedin.com/in/mohanvaddi/)
 - 📝 &nbsp; Checkout my [resume](#)
 - 📚 &nbsp; When I am free, I read fantasy and fiction comics.
-
-<br>
-<br>
-<br>
 
 ### 🔨 Languages and Tools:
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img align="left" alt="JavaScript" height ="42px"  src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/javascript/javascript.svg"> </a>
@@ -43,8 +39,6 @@ I am a WebDevloper with ability to easily adapt to different hats (Full Stack We
 
 <a href="https://git-scm.com/" target="_blank"> <img src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/git-scm/git-scm.svg" align="left" alt="git" height='42px'/> </a>
 <a href="https://www.figma.com/" target="_blank"> <img src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/figma/figma.svg" alt="figma" height='42px'/> </a>
-
-<br>
 
 
 ### 📊 Github Stats
