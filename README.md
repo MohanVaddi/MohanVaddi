@@ -48,7 +48,7 @@ I am a WebDevloper with ability to easily adapt to different technologies depend
   ![Languages](https://github.com/mohanvaddi/github-stats/blob/master/generated/languages.svg)
 
 <!-- </a> -->
-[![MohanVaddi's github activity graph](https://activity-graph.herokuapp.com/graph?username=mohanvaddi&theme=gotham)](https://github.com/ashutosh00710/github-readme-activity-graph)
+![MohanVaddi's github activity graph](https://activity-graph.herokuapp.com/graph?username=mohanvaddi&theme=react-dark)
 
 
 <br>
