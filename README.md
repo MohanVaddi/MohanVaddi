@@ -15,10 +15,10 @@ I am a WebDeveloper. I love exploring new technologies and leveraging them to bu
 - 🤝 &nbsp; I’m looking to collaborate on [Gmeet-AMS](https://github.com/mohanvaddi/Gmeet-AMS)
 - 🌱 &nbsp; I’m currently learning React-Native; 
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/mohanvaddi?tab=repositories)
-- 💬 &nbsp; Ask me about anything tech related, I am happy to help;
 - 📫 &nbsp; Feel free to ping me on [LinkedIn](https://www.linkedin.com/in/mohanvaddi/)
 - 📝 &nbsp; Checkout my [resume](#)
-- 📚 &nbsp; When I am free, I read fantasy and fiction comics.
+- 📚 &nbsp; When I am free, I read comics.
+<!-- - - 💬 &nbsp; Ask me about anything tech related, I am happy to help; -->
 
 ### 🔨 Languages and Tools:
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img align="left" alt="JavaScript" height ="42px"  src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/javascript/javascript.svg"> </a>
@@ -27,24 +27,24 @@ I am a WebDeveloper. I love exploring new technologies and leveraging them to bu
 <a href="https://reactjs.org/" target="_blank"> <img align="left" alt="React" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/react/react.svg"></a>
 <a href="https://reactjs.org/" target="_blank"> <img align="left" alt="redux" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/redux/redux.svg"></a>
 <!-- <a href="https://www.python.org" target="_blank"><img align="left" alt="flutter" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/flutter/flutter.svg"></a> -->
-<a href="https://www.python.org" target="_blank"><img align="left" alt="bash" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/bash/bash.svg"></a>
-<a href="https://www.python.org" target="_blank"><img align="left" alt="cpp" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/c++/c++.svg"></a>
-<a href="https://www.python.org" target="_blank"><img align="left" alt="docker" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/docker/docker.svg"></a>
+<a href="https://www.gnu.org/software/bash/" target="_blank"><img align="left" alt="bash" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/bash/bash.svg"></a>
+<a href="#!" target="_blank"><img align="left" alt="cpp" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/c++/c++.svg"></a>
+<a href="https://www.docker.com/" target="_blank"><img align="left" alt="docker" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/docker/docker.svg"></a>
 <a href="https://www.python.org" target="_blank"><img align="left" alt="Python" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/python/python.svg"></a>
 <a href="https://www.java.com" target="_blank"><img align="left" alt="Java" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/java/java.svg"></a>
 <a href="https://firebase.google.com/" target="_blank"> <img align="left" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/firebase/firebase.svg" alt="firebase" height ="42px"/> </a>
+<a href="https://cloud.google.com/" target="_blank"> <img align="left" src="https://github.com/rahul-jha98/README_icons/blob/main/language_and_tools/square/google-cloud/google-cloud.svg" alt="firebase" height ="42px"/> </a>
 
 <a href="https://git-scm.com/" target="_blank"> <img src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/git-scm/git-scm.svg" align="left" alt="git" height='42px'/> </a>
 <a href="https://www.figma.com/" target="_blank"> <img src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/figma/figma.svg" alt="figma" height='42px'/> </a>
 
 
 ### 📊 Github Stats
-<!-- <a href='https://github.com/MohanVaddi/github-stats'> -->
+
 
   ![Overview](https://github.com/mohanvaddi/github-stats/blob/master/generated/overview.svg)
   ![Languages](https://github.com/mohanvaddi/github-stats/blob/master/generated/languages.svg)
 
-<!-- </a> -->
 ![MohanVaddi's github activity graph](https://activity-graph.herokuapp.com/graph?username=mohanvaddi&theme=react-dark)
 
 
