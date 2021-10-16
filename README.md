@@ -1,4 +1,4 @@
-## Hey 👋, I'm Mohan Vaddi!
+## Hey 👋, I'm Mohan.
 <!-- 
 <a href='#'><img align='left' alt="linkedin" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/561d474902b59c7429ec22bb73e225696c27b202/assets/linkedin.svg" height='18px'/></a>
 <a href='#'><img align='left' alt="twitter" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/561d474902b59c7429ec22bb73e225696c27b202/assets/twitter.svg" height='18px'/></a>
@@ -8,16 +8,17 @@ I am a WebDeveloper. I love exploring new technologies and leveraging them to bu
 <br/>
 
 
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif" width="360px" height='360px'/>
+<!-- <img align="right" alt="GIF" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif" width="360px" height='360px'/> -->
   
-### 🧐 More About Me:
+### 📃 More About Me:
 <!-- - 🔭 &nbsp; I’m currently working on **** -->
-- 🤝 &nbsp; I’m looking to collaborate on [Gmeet-AMS](https://github.com/mohanvaddi/Gmeet-AMS)
+- 🤝 &nbsp; I’m looking to collaborate on any interesting projects.
 - 🌱 &nbsp; I’m currently learning React-Native; 
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/mohanvaddi?tab=repositories)
 - 📫 &nbsp; Feel free to ping me on [LinkedIn](https://www.linkedin.com/in/mohanvaddi/)
-- 📝 &nbsp; Checkout my [resume](#)
-- 📚 &nbsp; When I am free, I read comics.
+- 📙 &nbsp; When I am free, I read comics.
+<!-- - 🎮 &nbsp; When I am bored, I play Minecraft. -->
+<!-- - 📝 &nbsp; Checkout my [resume](#!) -->
 <!-- - - 💬 &nbsp; Ask me about anything tech related, I am happy to help; -->
 
 ### 🔨 Languages and Tools:
