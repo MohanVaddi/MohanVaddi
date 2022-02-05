@@ -21,25 +21,53 @@ I am a WebDeveloper. I love exploring new technologies and leveraging them to bu
 <!-- - 📝 &nbsp; Checkout my [resume](#!) -->
 <!-- - - 💬 &nbsp; Ask me about anything tech related, I am happy to help; -->
 
-### 🔨 Languages and Tools:
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img align="left" alt="JavaScript" height ="42px"  src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/javascript/javascript.svg"> </a>
+### 🔨 Languages:
+<!-- <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img align="left" alt="JavaScript" height ="42px"  src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/javascript/javascript.svg"> </a>
 <a href="https://www.typescriptlang.org/" target="_blank"><img align="left" alt="Typescirpt" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/typescript/typescript.svg"></a>
 <a href="https://nodejs.org" target="_blank"><img align="left" alt="Node.js" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/node/node.svg"></a>
 <a href="https://reactjs.org/" target="_blank"> <img align="left" alt="React" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/react/react.svg"></a>
 <a href="https://reactjs.org/" target="_blank"> <img align="left" alt="redux" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/redux/redux.svg"></a>
 <!-- <a href="https://www.python.org" target="_blank"><img align="left" alt="flutter" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/flutter/flutter.svg"></a> -->
-<a href="https://www.gnu.org/software/bash/" target="_blank"><img align="left" alt="bash" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/bash/bash.svg"></a>
+<!-- <a href="https://www.gnu.org/software/bash/" target="_blank"><img align="left" alt="bash" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/bash/bash.svg"></a>
 <a href="#!" target="_blank"><img align="left" alt="cpp" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/c++/c++.svg"></a>
 <a href="https://www.docker.com/" target="_blank"><img align="left" alt="docker" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/docker/docker.svg"></a>
 <a href="https://www.python.org" target="_blank"><img align="left" alt="Python" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/python/python.svg"></a>
 <a href="https://www.java.com" target="_blank"><img align="left" alt="Java" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/java/java.svg"></a>
 <a href="https://firebase.google.com/" target="_blank"> <img align="left" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/firebase/firebase.svg" alt="firebase" height ="42px"/> </a>
-<a href="https://cloud.google.com/" target="_blank"> <img align="left" src="https://github.com/rahul-jha98/README_icons/blob/main/language_and_tools/square/google-cloud/google-cloud.svg" alt="firebase" height ="42px"/> </a>
+<a href="https://cloud.google.com/" target="_blank"> <img align="left" src="https://github.com/rahul-jha98/README_icons/blob/main/language_and_tools/square/google-cloud/google-cloud.svg" alt="firebase" height ="42px"/> </a> -->
 
-<a href="https://git-scm.com/" target="_blank"> <img src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/git-scm/git-scm.svg" align="left" alt="git" height='42px'/> </a>
+![Python](https://img.shields.io/badge/-Python-white?style=flat-square&logo=Python)
+![TypeScript](https://img.shields.io/badge/-TypeScript-white?style=flat-square&logo=typescript)
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+![Java](https://img.shields.io/badge/-java-blue?style=flat-square&logo=java)
+![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cpp)
+
+#### Frontend
+![React](https://img.shields.io/badge/-React-blue?style=flat-square&logo=React)
+![Svelte](https://img.shields.io/badge/-Svelte-white?style=flat-square&logo=Svelte)
+
+
+#### Backend
+![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
+![Spring Boot](https://img.shields.io/badge/-SpringBoot-007ACC?style=flat-square&logo=springboot)
+![Express](https://img.shields.io/badge/-Express-black?style=flat-square&logo=express)
+![Graph QL](https://img.shields.io/badge/-GraphQL-007ACC?style=flat-square&logo=graphql)
+![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
+![PostgreSql](https://img.shields.io/badge/-Postgres-white?style=flat-square&logo=Postgresql)
+
+
+#### Tools
+![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
+![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E?style=flat-square&logo=amazon-aws)
+![Google Cloud](https://img.shields.io/badge/Google%20Cloud-black?style=flat-square&logo=google-cloud)
+![Firebase](https://img.shields.io/badge/-Firebase-black?style=flat-square&logo=firebase)
+![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
+
+<!-- <a href="https://git-scm.com/" target="_blank"> <img src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/git-scm/git-scm.svg" align="left" alt="git" height='42px'/> </a>
 <a href="https://www.figma.com/" target="_blank"> <img src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/figma/figma.svg" alt="figma" height='42px'/> </a>
 <a href="https://www.graphql.org/" target="_blank"> <img src="https://github.com/rahul-jha98/README_icons/blob/main/language_and_tools/square/graphql/graphql.svg" alt="graphql" height='42px'/> </a>
-<a href="https://www.postgresql.org/" target="_blank"> <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png" alt="postgresql" height='42px'/> </a>
+<a href="https://www.postgresql.org/" target="_blank"> <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png" alt="postgresql" height='42px'/> </a> -->
 
 ### 📊 Github Stats
 
