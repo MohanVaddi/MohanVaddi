@@ -34,6 +34,7 @@ I'm a Software Engineer interested in making web-applications, I love exploring 
 ![GO](https://img.shields.io/badge/-GoLang-black?style=flat-square&logo=go)
 #### Frontend
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=React)
+![Angular](https://img.shields.io/badge/-Angular-black?style=flat-square&logo=Angular)
 ![Svelte](https://img.shields.io/badge/-Svelte-black?style=flat-square&logo=Svelte)
 #### Backend
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
