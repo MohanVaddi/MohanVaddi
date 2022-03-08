@@ -15,7 +15,7 @@ I'm a Software Engineer interested in making web-applications, I love exploring 
 - 🤝 &nbsp; I’m looking to collaborate on any interesting projects.
 - 🌱 &nbsp; I’m currently learning Solidity; 
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/mohanvaddi?tab=repositories)
-- 📫 &nbsp; Feel free to ping me on [LinkedIn](https://www.linkedin.com/in/mohan-vaddi-5821161b9/)
+- 📫 &nbsp; Feel free to ping me on [LinkedIn](https://www.linkedin.com/in/mohanvaddi/)
 - 📙 &nbsp; When I am free, I read comics.
 <!-- - 🎮 &nbsp; When I am bored, I play Minecraft. -->
 <!-- - 📝 &nbsp; Checkout my [resume](#!) -->
