@@ -13,7 +13,7 @@ I'm a Software Engineer interested in making web-applications, I love exploring 
 ### 📃 More About Me:
 <!-- - 🔭 &nbsp; I’m currently working on **** -->
 - 🤝 &nbsp; I’m looking to collaborate on any interesting projects.
-- 🌱 &nbsp; I’m currently learning React-Native; 
+- 🌱 &nbsp; I’m currently learning Solidity; 
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/mohanvaddi?tab=repositories)
 - 📫 &nbsp; Feel free to ping me on [LinkedIn](https://www.linkedin.com/in/mohan-vaddi-5821161b9/)
 - 📙 &nbsp; When I am free, I read comics.
