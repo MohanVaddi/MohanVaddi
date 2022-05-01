@@ -4,7 +4,7 @@
 <a href='#'><img align='left' alt="twitter" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/561d474902b59c7429ec22bb73e225696c27b202/assets/twitter.svg" height='18px'/></a>
  -->
  
-I'm a Software Engineer interested in making web-applications, I love exploring new technologies and leveraging them to build cool stuff.
+I'm a Software Engineer, I love exploring new technologies and leveraging them to build cool stuff.
 <br/>
 
 
@@ -24,14 +24,21 @@ I'm a Software Engineer interested in making web-applications, I love exploring 
 <!-- <details>	
     <summary><b>🔨 Languages and tools</b></summary> -->
 
- #### Languages
-
+<details>
+<summary><b>⚡ Languages</b></summary>
+ 
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=flat-square&logo=typescript)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![Java](https://img.shields.io/badge/-java-black?style=flat-square&logo=java)
 ![C++](https://img.shields.io/badge/-C++-black?style=flat-square&logo=c++)
 ![GO](https://img.shields.io/badge/-GoLang-black?style=flat-square&logo=go)
+ 
+ </details>
+ 
+ <details>
+<summary><b>⚡ Technologies</b></summary>
+ 
 #### Frontend
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=React)
 ![Angular](https://img.shields.io/badge/-Angular-black?style=flat-square&logo=Angular)
@@ -51,10 +58,17 @@ I'm a Software Engineer interested in making web-applications, I love exploring 
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github)
 <!-- </details> -->
-
-### 📊 Github Stats
+ 
+  </details>
+ 
+  
+ <details>
+<summary><b>📊  Github Stats</b></summary>
+ 
   ![Overview](https://github.com/mohanvaddi/github-stats/blob/master/generated/overview.svg)
   ![Languages](https://github.com/mohanvaddi/github-stats/blob/master/generated/languages.svg)
+ 
+</details>
 
 <details>	
     <summary><b>⚡ Details</b></summary>
