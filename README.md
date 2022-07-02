@@ -10,29 +10,29 @@ I'm a Software Engineer, I love exploring new technologies and leveraging them t
 
 <!-- <img align="right" alt="GIF" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif" width="360px" height='360px'/> -->
   
-### 📃 More About Me:
+<!-- ### 📃 More About Me: -->
 <!-- - 🔭 &nbsp; I’m currently working on **** -->
-- 🤝 &nbsp; I’m looking to collaborate on any interesting projects.
-- 🌱 &nbsp; I’m currently learning PhaserJs; 
-- 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/mohanvaddi?tab=repositories)
-- 📫 &nbsp; Feel free to ping me on [LinkedIn](https://www.linkedin.com/in/mohanvaddi/)
-- 📙 &nbsp; When I am free, I read comics.
+<!-- - 🤝 &nbsp; I’m looking to collaborate on any interesting projects. -->
+📫 &nbsp; Feel free to ping me on [LinkedIn](https://www.linkedin.com/in/mohanvaddi/)
+<!-- - 📙 &nbsp; When I am free, I read comics. -->
 <!-- - 🎮 &nbsp; When I am bored, I play Minecraft. -->
 <!-- - 📝 &nbsp; Checkout my [resume](#!) -->
 <!-- - - 💬 &nbsp; Ask me about anything tech related, I am happy to help; -->
 
 <!-- <details>	
-    <summary><b>🔨 Languages and tools</b></summary> -->
+    <summary><b>🔨 Languages and tools</b></summary> 
+<!-- - 🌱 &nbsp; I’m currently learning PhaserJs; -->
+<!-- - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/mohanvaddi?tab=repositories) -->
 
 <details>
 <summary><b>⚡ Languages</b></summary>
  
-![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=flat-square&logo=typescript)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
 ![Java](https://img.shields.io/badge/-java-black?style=flat-square&logo=java)
 ![C++](https://img.shields.io/badge/-C++-black?style=flat-square&logo=c++)
-![GO](https://img.shields.io/badge/-GoLang-black?style=flat-square&logo=go)
+<!-- ![GO](https://img.shields.io/badge/-GoLang-black?style=flat-square&logo=go) -->
  
  </details>
  
