@@ -21,6 +21,14 @@ I'm a Software Engineer, I love exploring new technologies and leveraging them t
 <!-- - 🌱 &nbsp; I’m currently learning PhaserJs; -->
 <!-- - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/mohanvaddi?tab=repositories) -->
 
-   
-<!--  <img src="https://activity-graph.herokuapp.com/graph?username=mohanvaddi&theme=react-dark" alt="Mohan vaddi's commits graph"/> -->
+<br>
+
+<div>
+<a ><img src="https://github-readme-stats.vercel.app/api?username=mohanvaddi&show_icons=true&count_private=true&theme=react"></a>&#8198;
+<!-- <img  alt="GIF" src="https://github.com/abhir9/abhir9/blob/main/code.gif" width="311" height="200" /> -->
+<a ><img src="https://github-readme-streak-stats.herokuapp.com/?user=mohanvaddi&theme=react"></a>
+</div>
+
+<img align="center" src="https://activity-graph.herokuapp.com/graph?username=mohanvaddi&hide_border=true&area=true&point=transparent&theme=react-dark">
+
 <br>
