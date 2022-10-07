@@ -18,67 +18,9 @@ I'm a Software Engineer, I love exploring new technologies and leveraging them t
 <!-- - 🎮 &nbsp; When I am bored, I play Minecraft. -->
 <!-- - 📝 &nbsp; Checkout my [resume](#!) -->
 <!-- - - 💬 &nbsp; Ask me about anything tech related, I am happy to help; -->
-
-<!-- <details>	
-    <summary><b>🔨 Languages and tools</b></summary> 
 <!-- - 🌱 &nbsp; I’m currently learning PhaserJs; -->
 <!-- - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/mohanvaddi?tab=repositories) -->
 
-<details>
-<summary><b>⚡ Languages</b></summary>
- 
-![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=flat-square&logo=typescript)
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
-![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
-![Java](https://img.shields.io/badge/-java-black?style=flat-square&logo=java)
-![C++](https://img.shields.io/badge/-C++-black?style=flat-square&logo=c++)
-<!-- ![GO](https://img.shields.io/badge/-GoLang-black?style=flat-square&logo=go) -->
- 
- </details>
- 
- <details>
-<summary><b>⚡ Technologies</b></summary>
- 
-#### Frontend
-![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=React)
-![Angular](https://img.shields.io/badge/-Angular-black?style=flat-square&logo=Angular)
-![Svelte](https://img.shields.io/badge/-Svelte-black?style=flat-square&logo=Svelte)
-#### Backend
-![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
-![Spring Boot](https://img.shields.io/badge/-SpringBoot-black?style=flat-square&logo=springboot)
-![Express](https://img.shields.io/badge/-Express-black?style=flat-square&logo=express)
-![Graph QL](https://img.shields.io/badge/-GraphQL-black?style=flat-square&logo=graphql)
-![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
-![PostgreSql](https://img.shields.io/badge/-Postgres-black?style=flat-square&logo=Postgresql)
-#### Tools
-![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
-![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS-black?style=flat-square&logo=amazon-aws)
-![Google Cloud](https://img.shields.io/badge/Google%20Cloud-black?style=flat-square&logo=google-cloud)
-![Firebase](https://img.shields.io/badge/-Firebase-black?style=flat-square&logo=firebase)
-![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github)
-<!-- </details> -->
- 
-  </details>
- 
-  
- <details>
-<summary><b>📊  Github Stats</b></summary>
- 
-  ![Overview](https://github.com/mohanvaddi/github-stats/blob/master/generated/overview.svg)
-  ![Languages](https://github.com/mohanvaddi/github-stats/blob/master/generated/languages.svg)
- 
-</details>
-
-<details>	
-    <summary><b>⚡ Details</b></summary>
- <img src="https://activity-graph.herokuapp.com/graph?username=mohanvaddi&theme=react-dark" alt="Mohan vaddi's commits graph"/>
-<!-- ![MohanVaddi's github activity graph](https://activity-graph.herokuapp.com/graph?username=mohanvaddi&theme=react-dark) -->
- 
-</details>
-
-
+   
+<!--  <img src="https://activity-graph.herokuapp.com/graph?username=mohanvaddi&theme=react-dark" alt="Mohan vaddi's commits graph"/> -->
 <br>
-
-<!-- ### 🛠️ My Projects -->
-<!-- <a href="#" target="_blank"> <img alt="Gmeet-AMS" src="#" height="68" align="left"> </a> -->
