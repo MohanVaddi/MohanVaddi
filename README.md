@@ -28,3 +28,5 @@ I'm a Software Engineer, I love exploring new technologies and leveraging them t
 <!-- <img align="center" src="https://activity-graph.herokuapp.com/graph?username=mohanvaddi&hide_border=true&area=true&point=transparent&theme=react-dark"> -->
 
 <br>
+
+[![](https://badges.lastfm.workers.dev/last-played?user=mohanvaddi&style=for-the-badge)](https://www.last.fm/user/mohanvaddi)
