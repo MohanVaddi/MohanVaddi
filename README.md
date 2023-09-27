@@ -1,9 +1,8 @@
 ## Hey 👋, I'm Mohan.
+I'm a passionate software engineer. I love exploring new technologies and leveraging them to build cool stuff.
 
- 
-I'm a Software Engineer, I love exploring new technologies and leveraging them to build cool stuff.
-<br/>
 
-📫 &nbsp; Feel free to ping me on [LinkedIn](https://www.linkedin.com/in/mohanvaddi/)
+Let's connect and chat about coding, tech, or anything else!
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=mohanvaddi&theme=highcontrast&hide_border=true&mode=weekly)](https://git.io/streak-stats)
+[![Website](https://img.shields.io/badge/Website-Visit-brightgreen)](https://your-website.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/mohanvaddi/)
